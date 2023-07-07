@@ -18,16 +18,16 @@ Clone the repository or download the script directly.
 
 Open the script in a text editor and replace the following placeholders with your actual information:
 
-your_username: Your Instagram username.
-your_password: Your Instagram password.
-your_client_id: Your Instagram client ID.
-your_client_secret: Your Instagram client secret.
-your_access_token: Your Instagram access token.
-your_sender_email@example.com: The email address used as the sender.
-your_sender_password: The password for the sender email address.
-your_receiver_email@example.com: The email address where you want to receive notifications.
-your_smtp_server: The SMTP server address for sending emails.
-587: The SMTP server port number.
+*your_username: Your Instagram username.
+*your_password: Your Instagram password.
+*your_client_id: Your Instagram client ID.
+*your_client_secret: Your Instagram client secret.
+*your_access_token: Your Instagram access token.
+*your_sender_email@example.com: The email address used as the sender.
+*your_sender_password: The password for the sender email address.
+*your_receiver_email@example.com: The email address where you want to receive notifications.
+*your_smtp_server: The SMTP server address for sending emails.
+*587: The SMTP server port number.
 Save the script with the changes.
 
 Open a terminal or command prompt and navigate to the directory where the script is located.
