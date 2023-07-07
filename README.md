@@ -33,4 +33,5 @@ Save the script with the changes.
 Open a terminal or command prompt and navigate to the directory where the script is located.
 
 Run the script using the following command:
+```bash
 **python instagram_profile_monitor.py**
