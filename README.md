@@ -34,4 +34,4 @@ Open a terminal or command prompt and navigate to the directory where the script
 
 Run the script using the following command:
 ```bash
-**python instagram_profile_monitor.py**
+python instagram_profile_monitor.py
